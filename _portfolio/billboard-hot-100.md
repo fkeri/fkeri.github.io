@@ -1,6 +1,7 @@
 ---
-title: "Billboard Top 100"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Billboard Hot 100 Analysis"
+excerpt: "Exploring the evolution of popular music over time using the Billboard Hot 100 historical data to identify popular tracks, and leveraging Spotify Audio Features API to quantify tracks' sound characteristics."
+# excerpt_separator: "<!--more-->"
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
