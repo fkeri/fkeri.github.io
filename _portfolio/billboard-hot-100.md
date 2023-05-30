@@ -6,14 +6,15 @@ header:
   # image: /assets/images/billboardspotify_logo.png
   teaser: /assets/images/billboardspotify_logo.png
 sidebar:
-  - title: "Skills:"
+  - title: "### Skills:"
     image: /assets/images/billboardspotify_logo_teaser.png
     image_alt: "Billboard Spotify Project Logo"
     text: |
       * Web Scraping
       * Data Visualization
       * Hypothesis Testing
-      * Building a Data App with Plotly Dash
+      * Interactive Data App with Plotly Dash
+  - title: "### [View Jupyter Notebook](https://nbviewer.org/github/fkeri/BillboardSpotify/blob/master/src/notebooks/SpotifyAudioFeatures.ipynb){:target='_blank'}"
 # gallery:
 #   - url: /assets/images/unsplash-gallery-image-1.jpg
 #     image_path: assets/images/unsplash-gallery-image-1-th.jpg
