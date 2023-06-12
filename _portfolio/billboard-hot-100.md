@@ -14,19 +14,27 @@ sidebar:
       * Data Visualization
       * Hypothesis Testing
       * Interactive Data App with Plotly Dash
-  - title: "### [View Jupyter Notebook](https://nbviewer.org/github/fkeri/BillboardSpotify/blob/master/src/notebooks/SpotifyAudioFeatures.ipynb){:target='_blank'}"
-# gallery:
-#   - url: /assets/images/unsplash-gallery-image-1.jpg
-#     image_path: assets/images/unsplash-gallery-image-1-th.jpg
-#     alt: "placeholder image 1"
-#   - url: /assets/images/unsplash-gallery-image-2.jpg
-#     image_path: assets/images/unsplash-gallery-image-2-th.jpg
-#     alt: "placeholder image 2"
-#   - url: /assets/images/unsplash-gallery-image-3.jpg
-#     image_path: assets/images/unsplash-gallery-image-3-th.jpg
-#     alt: "placeholder image 3"
+  - title: "### External links:"
+    text: |
+      * ##### [Jupyter Notebook](https://nbviewer.org/github/fkeri/BillboardSpotify/blob/master/src/notebooks/SpotifyAudioFeatures.ipynb){:target='_blank'}
+      * ##### [Interactive Data App - Audio Feature Distributions](https://billboard-spotify-data-app.onrender.com){:target='_blank'}
+      * ##### [Interactive Data App - Animated Joint Audio Feature Distributions](https://billboard-spotify-animation-data-app.onrender.com){:target='_blank'}
+gallery:
+  - url: /assets/images/animated_contour_plot.gif
+    image_path: /assets/images/animated_contour_plot.gif
+    alt: "Animated Contour Plot: Danceability vs Valence over Billboard Decades"
+  - url: /assets/images/acousticness_box_plot.png
+    image_path: /assets/images/acousticness_box_plot.png
+    alt: "Acousticness Box Plot over Billboard Decades"
+  - url: /assets/images/duration_ridge_plot.png
+    image_path: /assets/images/duration_ridge_plot.png
+    alt: "Duration (minutes) Ridge plot over Billboard Decades"
+  - url: /assets/images/valence_ridge_plot.png
+    image_path: /assets/images/valence_ridge_plot.png
+    alt: "Valence Ridge plot over Billboard Decades"
 classes: wide
 ---
+{% include gallery caption="Fig 1. Sample plots of Billboard Decade popular tracks' Audio Features that can be found in the [Jupyter Notebook](https://nbviewer.org/github/fkeri/BillboardSpotify/blob/master/src/notebooks/SpotifyAudioFeatures.ipynb){:target='_blank'} and the Interactive Data Apps [1) Audio Feature Distributions](https://billboard-spotify-data-app.onrender.com){:target='_blank'} and [2) Animated Joint Audio Feature Distributions](https://billboard-spotify-animation-data-app.onrender.com){:target='_blank'} for this project." layout="half" %}
 ## Motivation
 
 In this project, I was interested to explore how the sound of popular music evolved over time. Thus, I set out to quantify and visualize something as intangible as the concept of the *"sound of the 1960s"* and draw comparisons to the contemporary music landscape.
