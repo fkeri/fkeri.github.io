@@ -1,9 +1,9 @@
 ---
-title: Portfolio
+title: Project Portfolio
 layout: collection
 permalink: /
 collection: portfolio
 entries_layout: list
 ---
 
-Sample document listing for the collection `_portfolio`.
+Here you may find some of my selected personal projects.
