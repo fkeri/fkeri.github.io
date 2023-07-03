@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Filip Keri"
-  avatar           : "/assets/images/linkedin_profile.jpg"
+  avatar           : "/assets/images/linkedin_profile.png"
   bio              : "A Data Scientist channeling a deep curiosity and diverse background into unique insights and solutions."
   location         : "Lyon, France"
   links:
